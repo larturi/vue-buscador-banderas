@@ -1,6 +1,7 @@
 # Flags App
 
 ### PoC with Vue.js
+[View Demo](https://vue-flags-api.netlify.app)
 
 ## Project setup
 ```
